@@ -39,6 +39,6 @@ def divide(a, b):
         return None
     
 add(10,15)
-subtract(15,10)
+subtract(20,10)
 multiply(10,20)
 divide(20,0)
